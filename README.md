@@ -10,4 +10,4 @@ This project was created because I often struggle to select what episode of Dr W
 - allow the user to select specific series or doctors
 - Create a simple GUI, most likely using tkinter
 - Allow for several episodes to be generated to choose from
-- Provide basic info about the episode (eg: companions, episode summary, doctor)
+- Provide basic info about the episode *(eg: companions, episode summary, doctor)*
