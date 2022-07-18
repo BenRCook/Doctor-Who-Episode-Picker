@@ -1,4 +1,7 @@
 import random
+from tkinter import *
+
+
 
 episodes = ["S1E1 - Rose",
             "S1E2 - The End of the World",
@@ -15,4 +18,13 @@ episodes = ["S1E1 - Rose",
             "S1E13 - The Parting of the Ways",
             ]
 
-print(random.choice(episodes))
+
+root = Tk()
+root.title("Doctor Who Episode Generator")
+root.geometry("800x400")
+
+episode_label = Label(root, text=random.choice(episodes))
+
+episode_label.pack()
+
+root.mainloop()
