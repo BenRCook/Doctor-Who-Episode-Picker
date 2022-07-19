@@ -632,11 +632,431 @@ episodes_json = """[
         "episode": 18,
         "title": "The Time of the Doctor",
         "doctor": 11
+    },
+    {
+        "series": 8,
+        "episode": 1,
+        "title": "Deep Breath",
+        "doctor": 12
+    },
+    {
+        "series": 8,
+        "episode": 2,
+        "title": "Into the Dalek",
+        "doctor": 12
+    },
+    {
+        "series": 8,
+        "episode": 3,
+        "title": "Robot of Sherwood",
+        "doctor": 12
+    },
+    {
+        "series": 8,
+        "episode": 4,
+        "title": "Listen",
+        "doctor": 12
+    },
+    {
+        "series": 8,
+        "episode": 5,
+        "title": "Time Heist",
+        "doctor": 12
+    },
+    {
+        "series": 8,
+        "episode": 6,
+        "title": "The Caretaker",
+        "doctor": 12
+    },
+    {
+        "series": 8,
+        "episode": 7,
+        "title": "Kill the Moon",
+        "doctor": 12
+    },
+    {
+        "series": 8,
+        "episode": 8,
+        "title": "Mummy on the Orient Express",
+        "doctor": 12
+    },
+    {
+        "series": 8,
+        "episode": 9,
+        "title": "Flatline",
+        "doctor": 12
+    },
+    {
+        "series": 8,
+        "episode": 10,
+        "title": "In the Forest of the Night",
+        "doctor": 12
+    },
+    {
+        "series": 8,
+        "episode": 11,
+        "title": "Dark Water",
+        "doctor": 12
+    },
+    {
+        "series": 8,
+        "episode": 12,
+        "title": "Death in Heaven",
+        "doctor": 12
+    },
+    {
+        "series": 9,
+        "episode": 1,
+        "title": "Last Christmas",
+        "doctor": 12
+    },
+    {
+        "series": 9,
+        "episode": 2,
+        "title": "The Magician's Apprentice",
+        "doctor": 12
+    },
+    {
+        "series": 9,
+        "episode": 3,
+        "title": "The Witch's Familiar",
+        "doctor": 12
+    },
+    {
+        "series": 9,
+        "episode": 4,
+        "title": "Under the Lake",
+        "doctor": 12
+    },
+    {
+        "series": 9,
+        "episode": 5,
+        "title": "Before the Flood",
+        "doctor": 12
+    },
+    {
+        "series": 9,
+        "episode": 6,
+        "title": "The Girl Who Died",
+        "doctor": 12
+    },
+    {
+        "series": 9,
+        "episode": 7,
+        "title": "The Woman Who Lived",
+        "doctor": 12
+    },
+    {
+        "series": 9,
+        "episode": 8,
+        "title": "The Zygon Invasion",
+        "doctor": 12
+    },
+    {
+        "series": 9,
+        "episode": 9,
+        "title": "The Zygon Inversion",
+        "doctor": 12
+    },
+    {
+        "series": 9,
+        "episode": 10,
+        "title": "Sleep No More",
+        "doctor": 12
+    },
+    {
+        "series": 9,
+        "episode": 11,
+        "title": "Face the Raven",
+        "doctor": 12
+    },
+    {
+        "series": 9,
+        "episode": 12,
+        "title": "Heaven Sent",
+        "doctor": 12
+    },
+    {
+        "series": 9,
+        "episode": 13,
+        "title": "Hell Bent",
+        "doctor": 12
+    },
+    {
+        "series": 9,
+        "episode": 14,
+        "title": "The Husbands of River Song",
+        "doctor": 12
+    },
+    {
+        "series": 10,
+        "episode": 1,
+        "title": "The Return of Doctor Mysterio",
+        "doctor": 12
+    },
+    {
+        "series": 10,
+        "episode": 2,
+        "title": "The Pilot",
+        "doctor": 12
+    },
+    {
+        "series": 10,
+        "episode": 3,
+        "title": "Smile",
+        "doctor": 12
+    },
+    {
+        "series": 10,
+        "episode": 4,
+        "title": "Thin Ice",
+        "doctor": 12
+    },
+    {
+        "series": 10,
+        "episode": 5,
+        "title": "Knock Knock",
+        "doctor": 12
+    },
+    {
+        "series": 10,
+        "episode": 6,
+        "title": "Oxygen",
+        "doctor": 12
+    },
+    {
+        "series": 10,
+        "episode": 7,
+        "title": "Extremis",
+        "doctor": 12
+    },
+    {
+        "series": 10,
+        "episode": 8,
+        "title": "The Pyramid at the End of the World",
+        "doctor": 12
+    },
+    {
+        "series": 10,
+        "episode": 9,
+        "title": "The Lie of the Land",
+        "doctor": 12
+    },
+    {
+        "series": 10,
+        "episode": 10,
+        "title": "Empress of Mars",
+        "doctor": 12
+    },
+    {
+        "series": 10,
+        "episode": 11,
+        "title": "The Eaters of Light",
+        "doctor": 12
+    },
+    {
+        "series": 10,
+        "episode": 12,
+        "title": "World Enough and Time",
+        "doctor": 12
+    },
+    {
+        "series": 10,
+        "episode": 13,
+        "title": "The Doctor Falls",
+        "doctor": 12
+    },
+    {
+        "series": 10,
+        "episode": 14,
+        "title": "Twice Upon a Time",
+        "doctor": 12
+    },
+    {
+        "series": 11,
+        "episode": 1,
+        "title": "The Woman Who Fell to Earth",
+        "doctor": 13
+    },
+    {
+        "series": 11,
+        "episode": 2,
+        "title": "The Ghost Monument",
+        "doctor": 13
+    },
+    {
+        "series": 11,
+        "episode": 3,
+        "title": "Rosa",
+        "doctor": 13
+    },
+    {
+        "series": 11,
+        "episode": 4,
+        "title": "Arachnids in the UK",
+        "doctor": 13
+    },
+    {
+        "series": 11,
+        "episode": 5,
+        "title": "The Tsuranga Conundrum",
+        "doctor": 13
+    },
+    {
+        "series": 11,
+        "episode": 6,
+        "title": "Demons of the Punjab",
+        "doctor": 13
+    },
+    {
+        "series": 11,
+        "episode": 7,
+        "title": "Kerblam!",
+        "doctor": 13
+    },
+    {
+        "series": 11,
+        "episode": 8,
+        "title": "The Witchfinders",
+        "doctor": 13
+    },
+    {
+        "series": 11,
+        "episode": 9,
+        "title": "It Takes You Away",
+        "doctor": 13
+    },
+    {
+        "series": 11,
+        "episode": 10,
+        "title":"The Battle of Ranskoor Av Kolos",
+        "doctor": 13
+    },
+    {
+        "series": 11,
+        "episode": 11,
+        "title": "Resolution",
+        "doctor": 13
+    },
+    {
+        "series": 12,
+        "episode": 1,
+        "title": "Spyfall Part 1",
+        "doctor": 13
+    },
+    {
+        "series": 12,
+        "episode": 2,
+        "title": "Spyfall Part 2",
+        "doctor": 13
+    },
+    {
+        "series": 12,
+        "episode": 3,
+        "title": "Orphan 55",
+        "doctor": 13
+    },
+    {
+        "series": 12,
+        "episode": 4,
+        "title": "Nikola Tesla's Night of Terror",
+        "doctor": 13
+    },
+    {
+        "series": 12,
+        "episode": 5,
+        "title": "Fugitive of the Judoon",
+        "doctor": 13
+    },
+    {
+        "series": 12,
+        "episode": 6,
+        "title": "Praxeus",
+        "doctor": 13
+    },
+    {
+        "series": 12,
+        "episode": 7,
+        "title": "Can You Hear Me?",
+        "doctor": 13
+    },
+    {
+        "series": 12,
+        "episode": 8,
+        "title": "The Haunting of Villa Diodati",
+        "doctor": 13
+    },
+    {
+        "series": 12,
+        "episode": 9,
+        "title": "Ascension of the Cybermen",
+        "doctor": 13
+    },
+    {
+        "series": 12,
+        "episode": 10,
+        "title": "The Timeless Children",
+        "doctor": 13
+    },
+    {
+        "series": 12,
+        "episode": 11,
+        "title": "Revolution of the Daleks",
+        "doctor": 13
+    },
+    {
+        "series": 13,
+        "episode": 1,
+        "title": "The Halloween Apocalypse",
+        "doctor": 13
+    },
+    {
+        "series": 13,
+        "episode": 2,
+        "title": "War of the Sontarans",
+        "doctor": 13
+    },
+    {
+        "series": 13,
+        "episode": 3,
+        "title": "Once, Upon Time",
+        "doctor": 13
+    },
+    {
+        "series": 13,
+        "episode": 4,
+        "title": "Village of the Angels",
+        "doctor": 13
+    },
+    {
+        "series": 13,
+        "episode": 5,
+        "title": "Survivors of the Flux",
+        "doctor": 13
+    },
+    {
+        "series": 13,
+        "episode": 6,
+        "title": "The Vanquishers",
+        "doctor": 13
+    },
+    {
+        "series": 13,
+        "episode": 7,
+        "title": "Eve of the Daleks",
+        "doctor": 13
+    },
+    {
+        "series": 13,
+        "episode": 8,
+        "title": "Legend of the Sea Devils",
+        "doctor": 13
     }
+    
 ]
 """
 episodes = json.loads(episodes_json)
-print(episodes)
 
 def pick_episode():
     episode = random.choice(episodes)
@@ -647,7 +1067,6 @@ def pick_episode_button():
     title_label["text"] = "S%s E%s - %s" %(episode["series"], episode["episode"], episode["title"])
     doctor_label["text"] = "%sth Doctor" % episode["doctor"]
     
-
 root = Tk()
 root.title("Doctor Who Episode Generator")
 root.geometry("600x250")
