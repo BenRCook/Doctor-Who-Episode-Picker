@@ -1,3 +1,4 @@
+from faulthandler import disable
 import random
 import json
 from tkinter import *
@@ -205,7 +206,8 @@ def pick_episode_button():
     episode = pick_episode()
     title_label["text"] = "S%s E%s - %s" %(episode["series"], episode["episode"], episode["title"])
     doctor_label["text"] = "%sth Doctor" % episode["doctor"]
-    link_label["text"] = episode["link"]
+    link_label.delete(0, "end")
+    link_label.insert(0, episode["link"])
     
 root = Tk()
 root.title("Doctor Who Episode Generator")
@@ -215,7 +217,7 @@ title_label = Label(root, text="", font=("Helvetica", 20))
 title_label.pack(pady=10)
 doctor_label = Label(root, text="", font=("Helvetica", 15))
 doctor_label.pack(pady=10)
-link_label = Label(root, text="", font=("Helvetica", 12))
+link_label = Entry(root, width = 40, font=("Helvetica", 12))
 link_label.pack(pady=10)
 
 pick_episode_button() # picks an episode  
