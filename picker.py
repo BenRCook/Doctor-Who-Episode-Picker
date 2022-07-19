@@ -192,6 +192,104 @@ episodes_json = """[
         "title": "Doomsday",
         "doctor": 10,
         "link": "https://www.bbc.co.uk/iplayer/episode/b0074frg"
+    },
+    {
+        "series": 3,
+        "episode": 1,
+        "title": "The Runaway Bride",
+        "doctor": 10,
+        "link": "https://www.bbc.co.uk/iplayer/episode/b0074g6q"
+    },
+    {
+        "series": 3,
+        "episode": 2,
+        "title": "Smith and Jones",
+        "doctor": 10,
+        "link": "https://www.bbc.co.uk/iplayer/episode/b0074gly"
+    },
+    {
+        "series": 3,
+        "episode": 3,
+        "title": "The Shakespeare Code",
+        "doctor": 10,
+        "link": "https://www.bbc.co.uk/iplayer/episode/b0074gmy"
+    },
+    {
+        "series": 3,
+        "episode": 4,
+        "title": "Gridlock",
+        "doctor": 10,
+        "link": "https://www.bbc.co.uk/iplayer/episode/b0074gnr"
+    },
+    {
+        "series": 3,
+        "episode": 5,
+        "title": "Daleks in Manhattan",
+        "doctor": 10,
+        "link": "https://www.bbc.co.uk/iplayer/episode/b0079mgg"
+    },
+    {
+        "series": 3,
+        "episode": 6,
+        "title": "Evolution of the Daleks",
+        "doctor": 10,
+        "link": "https://www.bbc.co.uk/iplayer/episode/b0079t3d"
+    },
+    {
+        "series": 3,
+        "episode": 7,
+        "title": "The Lazarus Experiment",
+        "doctor": 10,
+        "link": "https://www.bbc.co.uk/iplayer/episode/b007ghhb"
+    },
+    {
+        "series": 3,
+        "episode": 8,
+        "title": "42",
+        "doctor": 10,
+        "link": "https://www.bbc.co.uk/iplayer/episode/b007hb9s"
+    },
+    {
+        "series": 3,
+        "episode": 9,
+        "title": "Human Nature",
+        "doctor": 10,
+        "link": "https://www.bbc.co.uk/iplayer/episode/b007m0r9"
+    },
+    {
+        "series": 3,
+        "episode": 10,
+        "title": "The Family of Blood",
+        "doctor": 10,
+        "link": "https://www.bbc.co.uk/iplayer/episode/b007n0d6"
+    },
+    {
+        "series": 3,
+        "episode": 11,
+        "title": "Blink",
+        "doctor": 10,
+        "link": "https://www.bbc.co.uk/iplayer/episode/b0074gpl"
+    },
+    {
+        "series": 3,
+        "episode": 12,
+        "title": "Utopia",
+        "doctor": 10,
+        "link": "https://www.bbc.co.uk/iplayer/episode/b007qltt"
+    },
+    {
+        "series": 3,
+        "episode": 13,
+        "title": "The Sound of Drums",
+        "doctor": 10,
+        "link": "https://www.bbc.co.uk/iplayer/episode/b007r65s"
+    },
+    {
+        "series": 3,
+        "episode": 14,
+        "title": "Last of the Time Lords",
+        "doctor": 10,
+        "link": "https://www.bbc.co.uk/iplayer/episode/b007rsj5"
     }
     
 ]
