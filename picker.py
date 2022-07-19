@@ -205,15 +205,19 @@ def pick_episode_button():
     episode = pick_episode()
     title_label["text"] = "S%s E%s - %s" %(episode["series"], episode["episode"], episode["title"])
     doctor_label["text"] = "%sth Doctor" % episode["doctor"]
+    link_label["text"] = episode["link"]
     
 root = Tk()
 root.title("Doctor Who Episode Generator")
 root.geometry("600x250")
 root.configure(bg="#17163e")
 title_label = Label(root, text="", font=("Helvetica", 20))
-title_label.pack(pady=10, padx=10)
+title_label.pack(pady=10)
 doctor_label = Label(root, text="", font=("Helvetica", 15))
-doctor_label.pack(pady=30, padx=30)
+doctor_label.pack(pady=10)
+link_label = Label(root, text="", font=("Helvetica", 12))
+link_label.pack(pady=10)
+
 pick_episode_button() # picks an episode  
 
 new_episode_button = Button(text="Pick New Episode", command=pick_episode_button, font=("Helvetica", 15), padx = 10, pady = 20)
