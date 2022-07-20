@@ -1175,11 +1175,11 @@ def pick_episode_button():
     link_label.delete(0, "end")
     link_label.insert(0, episode["link"])
     bg_colours = {
-        9 : "#423120", # colour taken from 9's tardis
-        10 : "#000b79", # colour taken from 10's screwdriver
+        9: "#423120",  # colour taken from 9's tardis
+        10: "#000b79", # colour taken from 10's screwdriver
         11: "#0f3318", # colour taken from 11's screwdriver
         12: "#575654", # colour taken from 12's hair
-        13: "#4d3438" # colour taken from 13's screwdriver
+        13: "#4d3438"  # colour taken from 13's screwdriver
     }
     root["bg"] = bg_colours[episode["doctor"]]
     
