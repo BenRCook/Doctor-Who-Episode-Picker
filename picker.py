@@ -1011,6 +1011,76 @@ episodes_json = """[
         "title": "The Doctor Falls",
         "doctor": 12,
         "link": "https://www.bbc.co.uk/iplayer/episode/b08xhhn4"
+    },
+    {
+        "series": 11,
+        "episode": 1,
+        "title": "The Woman Who Fell to Earth",
+        "doctor": 13,
+        "link": "https://www.bbc.co.uk/iplayer/episode/p06jcn8k"
+    },
+    {
+        "series": 11,
+        "episode": 2,
+        "title": "The Ghost Monument",
+        "doctor": 13,
+        "link": "https://www.bbc.co.uk/iplayer/episode/b0bp1brh"
+    },
+    {
+        "series": 11,
+        "episode": 3,
+        "title": "Rosa",
+        "doctor": 13,
+        "link": "https://www.bbc.co.uk/iplayer/episode/b0bpwm2m"
+    },
+    {
+        "series": 11,
+        "episode": 4,
+        "title": "Arachnids in the UK",
+        "doctor": 13,
+        "link": "https://www.bbc.co.uk/iplayer/episode/b0bqn236"
+    },
+    {
+        "series": 11,
+        "episode": 5,
+        "title": "The Tsuranga Conundrum",
+        "doctor": 13,
+        "link": "https://www.bbc.co.uk/iplayer/episode/b0brghc8"
+    },
+    {
+        "series": 11,
+        "episode": 6,
+        "title": "Demons of the Punjab",
+        "doctor": 13,
+        "link": "https://www.bbc.co.uk/iplayer/episode/b0bs748h"
+    },
+    {
+        "series": 11,
+        "episode": 7,
+        "title": "Kerblam!",
+        "doctor": 13,
+        "link": "https://www.bbc.co.uk/iplayer/episode/b0bsrh4l"
+    },
+    {
+        "series": 11,
+        "episode": 8,
+        "title": "The Witchfinders",
+        "doctor": 13,
+        "link": "https://www.bbc.co.uk/iplayer/episode/b0bthzjn"
+    },
+    {
+        "series": 11,
+        "episode": 9,
+        "title": "It Takes You Away",
+        "doctor": 13,
+        "link": "https://www.bbc.co.uk/iplayer/episode/b0bv1l0j"
+    },
+    {
+        "series": 11,
+        "episode": 10,
+        "title":"The Battle of Ranskoor Av Kolos",
+        "doctor": 13,
+        "link": "https://www.bbc.co.uk/iplayer/episode/b0bvgbqw"
     }
     
 ]
