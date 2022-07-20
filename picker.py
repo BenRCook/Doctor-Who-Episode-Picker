@@ -724,7 +724,7 @@ episodes_json = """[
         "title": "The Night of The Doctor",
         "doctor": 8,
         "link": "https://www.bbc.co.uk/iplayer/episode/p01lhhv4"
-    }
+    },
     {
         "series": 7,
         "episode": 17,
