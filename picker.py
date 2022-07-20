@@ -724,7 +724,7 @@ episodes_json = """[
         "title": "The Night of The Doctor",
         "doctor": 8,
         "link": "https://www.bbc.co.uk/iplayer/episode/p01lhhv4"
-    },
+    }
     {
         "series": 7,
         "episode": 17,
@@ -1231,6 +1231,7 @@ def pick_episode_button():
     link_label.delete(0, "end")
     link_label.insert(0, episode["link"])
     bg_colours = {
+        8: "#0f090a",  # colour taken from 8's coat 
         9: "#423120",  # colour taken from 9's tardis
         10: "#000b79", # colour taken from 10's screwdriver
         11: "#0f3318", # colour taken from 11's screwdriver
