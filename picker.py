@@ -822,7 +822,7 @@ episodes_json = """[
         "title": "Death in Heaven",
         "doctor": 12,
         "link": "https://www.bbc.co.uk/iplayer/episode/b04ph4cn"
-    }
+    },
     {
         "series": 9,
         "episode": 1,
