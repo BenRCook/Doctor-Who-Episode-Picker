@@ -600,26 +600,26 @@ episodes_json = """[
     {
         "series": 7,
         "episode": 13,
-        "title": "Journey to the Centre of the TARDIS",
-        "doctor": 11
-    },
-    {
-        "series": 7,
-        "episode": 14,
         "title": "The Crimson Horror",
         "doctor": 11
     },
     {
         "series": 7,
-        "episode": 15,
+        "episode": 14,
         "title": "Nightmare in Silver",
         "doctor": 11
     },
     {
         "series": 7,
-        "episode": 16,
+        "episode": 15,
         "title": "The Name of the Doctor",
         "doctor": 11
+    },
+    {
+        "series": 7,
+        "episode": 16,
+        "title": The Night of The Doctor,
+        "doctor": 8
     },
     {
         "series": 7,
