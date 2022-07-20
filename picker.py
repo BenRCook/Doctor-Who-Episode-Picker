@@ -610,8 +610,134 @@ episodes_json = """[
         "series": 6,
         "episode": 14,
         "title": "The Wedding of River Song",
-        "doctor": 11.
+        "doctor": 11,
         "link": "https://www.bbc.co.uk/iplayer/episode/b015p5kc"
+    },
+    {
+        "series": 7,
+        "episode": 1,
+        "title": "The Doctor, the Widow and the Wardrobe",
+        "doctor": 11,
+        "link": "https://www.bbc.co.uk/iplayer/episode/b018nrhp"
+    },
+    {
+        "series": 7,
+        "episode": 2,
+        "title": "Asylum of the Daleks",
+        "doctor": 11,
+        "link": "https://www.bbc.co.uk/iplayer/episode/p00wqr14"
+    },
+    {
+        "series": 7,
+        "episode": 3,
+        "title": "Dinosaurs on a Spaceship",
+        "doctor": 11,
+        "link": "https://www.bbc.co.uk/iplayer/episode/b01mm5c9"
+    },
+    {
+        "series": 7,
+        "episode": 4,
+        "title": "A Town Called Mercy",
+        "doctor": 11,
+        "link": "https://www.bbc.co.uk/iplayer/episode/b01mxx3h"
+    },
+    {
+        "series": 7,
+        "episode": 5,
+        "title": "The Power of Three",
+        "doctor": 11,
+        "link": "https://www.bbc.co.uk/iplayer/episode/b01n2tmc"
+    },
+    {
+        "series": 7,
+        "episode": 6,
+        "title": "The Angels Take Manhattan",
+        "doctor": 11,
+        "link": "https://www.bbc.co.uk/iplayer/episode/b01n70f3"
+    },
+    {
+        "series": 7,
+        "episode": 7,
+        "title": "The Snowmen",
+        "doctor": 11,
+        "link": "https://www.bbc.co.uk/iplayer/episode/p011gpsb"
+    },
+    {
+        "series": 7,
+        "episode": 8,
+        "title": "The Bells of Saint John",
+        "doctor": 11,
+        "link": "https://www.bbc.co.uk/iplayer/episode/b01rryzz"
+    },
+    {
+        "series": 7,
+        "episode": 9,
+        "title": "The Rings of Akhaten",
+        "doctor": 11,
+        "link": "https://www.bbc.co.uk/iplayer/episode/b01rx0lj"
+    },
+    {
+        "series": 7,
+        "episode": 10,
+        "title": "Cold War",
+        "doctor": 11,
+        "link": "https://www.bbc.co.uk/iplayer/episode/b01s1cz7"
+    },
+    {
+        "series": 7,
+        "episode": 11,
+        "title": "Hide",
+        "doctor": 11,
+        "link": "https://www.bbc.co.uk/iplayer/episode/b01s35ck"
+    },
+    {
+        "series": 7,
+        "episode": 12,
+        "title": "Journey to the Centre of the TARDIS",
+        "doctor": 11,
+        "link": "https://www.bbc.co.uk/iplayer/episode/b01s8pn6"
+    },
+    {
+        "series": 7,
+        "episode": 13,
+        "title": "The Crimson Horror",
+        "doctor": 11,
+        "link": "https://www.bbc.co.uk/iplayer/episode/b01sfhyp"
+    },
+    {
+        "series": 7,
+        "episode": 14,
+        "title": "Nightmare in Silver",
+        "doctor": 11,
+        "link": "https://www.bbc.co.uk/iplayer/episode/b01skfzk"
+    },
+    {
+        "series": 7,
+        "episode": 15,
+        "title": "The Name of the Doctor",
+        "doctor": 11,
+        "link": "https://www.bbc.co.uk/iplayer/episode/b01skh8t"
+    },
+    {
+        "series": 7,
+        "episode": 16,
+        "title": "The Night of The Doctor",
+        "doctor": 8,
+        "link": "https://www.bbc.co.uk/iplayer/episode/p01lhhv4"
+    },
+    {
+        "series": 7,
+        "episode": 17,
+        "title": "The Day of the Doctor",
+        "doctor": 11,
+        "link": "https://www.bbc.co.uk/iplayer/episode/p01l1z04"
+    },
+    {
+        "series": 7,
+        "episode": 18,
+        "title": "The Time of the Doctor",
+        "doctor": 11,
+        "link": "https://www.bbc.co.uk/iplayer/episode/p01mj6k8"
     }
     
 ]
