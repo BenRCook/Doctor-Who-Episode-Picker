@@ -1158,6 +1158,62 @@ episodes_json = """[
         "title": "Revolution of the Daleks",
         "doctor": 13,
         "link": "https://www.bbc.co.uk/iplayer/episode/m000qr8k"
+    },
+    {
+        "series": 13,
+        "episode": 1,
+        "title": "The Halloween Apocalypse",
+        "doctor": 13,
+        "link": "https://www.bbc.co.uk/iplayer/episode/m00116r4"
+    },
+    {
+        "series": 13,
+        "episode": 2,
+        "title": "War of the Sontarans",
+        "doctor": 13,
+        "link": "https://www.bbc.co.uk/iplayer/episode/m0011g6k"
+    },
+    {
+        "series": 13,
+        "episode": 3,
+        "title": "Once, Upon Time",
+        "doctor": 13,
+        "link": "https://www.bbc.co.uk/iplayer/episode/m0011nfd"
+    },
+    {
+        "series": 13,
+        "episode": 4,
+        "title": "Village of the Angels",
+        "doctor": 13,
+        "link": "https://www.bbc.co.uk/iplayer/episode/m0011vnw"
+    },
+    {
+        "series": 13,
+        "episode": 5,
+        "title": "Survivors of the Flux",
+        "doctor": 13,
+        "link": "https://www.bbc.co.uk/iplayer/episode/m00123l4"
+    },
+    {
+        "series": 13,
+        "episode": 6,
+        "title": "The Vanquishers",
+        "doctor": 13,
+        "link": "https://www.bbc.co.uk/iplayer/episode/m00129lb"
+    },
+    {
+        "series": 13,
+        "episode": 7,
+        "title": "Eve of the Daleks",
+        "doctor": 13,
+        "link": "https://www.bbc.co.uk/iplayer/episode/m00134mm"
+    },
+    {
+        "series": 13,
+        "episode": 8,
+        "title": "Legend of the Sea Devils",
+        "doctor": 13,
+        "link": "https://www.bbc.co.uk/iplayer/episode/m0016lkw"
     }
     
 ]
