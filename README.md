@@ -11,3 +11,9 @@ This project was created because I often struggle to select what episode of Dr W
 - Create a simple GUI, most likely using tkinter
 - Allow for several episodes to be generated to choose from
 - Provide basic info about the episode *(eg: companions, episode summary, doctor)*
+
+## I have currently implemented:
+- selecting a random episode from the 13 series of the revived show *(plus the "Night of the Doctor" minisode)*
+- a basic GUI using tkinter
+- showing the doctor present in each episode and changes background accordingly *("Day of the Doctor" shows as 11)*
+- displaying a copyable bbc iplayer link to the episode selected
