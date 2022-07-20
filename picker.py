@@ -1081,6 +1081,83 @@ episodes_json = """[
         "title":"The Battle of Ranskoor Av Kolos",
         "doctor": 13,
         "link": "https://www.bbc.co.uk/iplayer/episode/b0bvgbqw"
+    },
+    {
+        "series": 12,
+        "episode": 1,
+        "title": "Spyfall Part 1",
+        "doctor": 13,
+        "link": "https://www.bbc.co.uk/iplayer/episode/m000cs1y"
+    },
+    {
+        "series": 12,
+        "episode": 2,
+        "title": "Spyfall Part 2",
+        "doctor": 13,
+        "link": "https://www.bbc.co.uk/iplayer/episode/m000d4tk"
+    },
+    {
+        "series": 12,
+        "episode": 3,
+        "title": "Orphan 55",
+        "doctor": 13,
+        "link": "https://www.bbc.co.uk/iplayer/episode/m000dbp4"
+    },
+    {
+        "series": 12,
+        "episode": 4,
+        "title": "Nikola Tesla's Night of Terror",
+        "doctor": 13,
+        "link": "https://www.bbc.co.uk/iplayer/episode/m000dlc3"
+    },
+    {
+        "series": 12,
+        "episode": 5,
+        "title": "Fugitive of the Judoon",
+        "doctor": 13,
+        "link": "https://www.bbc.co.uk/iplayer/episode/m000dtqx"
+    },
+    {
+        "series": 12,
+        "episode": 6,
+        "title": "Praxeus",
+        "doctor": 13,
+        "link": "https://www.bbc.co.uk/iplayer/episode/m000f1wx"
+    },
+    {
+        "series": 12,
+        "episode": 7,
+        "title": "Can You Hear Me?",
+        "doctor": 13,
+        "link": "https://www.bbc.co.uk/iplayer/episode/m000f9d4"
+    },
+    {
+        "series": 12,
+        "episode": 8,
+        "title": "The Haunting of Villa Diodati",
+        "doctor": 13,
+        "link": "https://www.bbc.co.uk/iplayer/episode/m000fjf1"
+    },
+    {
+        "series": 12,
+        "episode": 9,
+        "title": "Ascension of the Cybermen",
+        "doctor": 13,
+        "link": "https://www.bbc.co.uk/iplayer/episode/m000frjp"
+    },
+    {
+        "series": 12,
+        "episode": 10,
+        "title": "The Timeless Children",
+        "doctor": 13,
+        "link": "https://www.bbc.co.uk/iplayer/episode/m000g09m"
+    },
+    {
+        "series": 12,
+        "episode": 11,
+        "title": "Revolution of the Daleks",
+        "doctor": 13,
+        "link": "https://www.bbc.co.uk/iplayer/episode/m000qr8k"
     }
     
 ]
