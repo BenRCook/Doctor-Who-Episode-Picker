@@ -618,7 +618,7 @@ episodes_json = """[
     {
         "series": 7,
         "episode": 16,
-        "title": The Night of The Doctor,
+        "title": "The Night of The Doctor",
         "doctor": 8
     },
     {
@@ -1068,8 +1068,9 @@ def pick_episode_button():
     doctor_label["text"] = "%sth Doctor" % episode["doctor"]
 
     bg_colours = {
-        9 : "#423120", # colour taken from 9's tardis
-        10 : "#000b79", # colour taken from 10's screwdriver
+        8: "#0f090a", # colour taken from 8's coat 
+        9: "#423120", # colour taken from 9's tardis
+        10: "#000b79", # colour taken from 10's screwdriver
         11: "#0f3318", # colour taken from 11's screwdriver
         12: "#575654", # colour taken from 12's hair
         13: "#4d3438" # colour taken from 13's screwdriver
