@@ -1221,9 +1221,22 @@ episodes_json = """[
 episodes = json.loads(episodes_json)
 
 def pick_episode():
+
+
     episode = random.choice(episodes)
     episode_is_okay = False
-    
+
+    if series_1_var.get() + series_2_var.get() + series_3_var.get() + series_4_var.get() + series_5_var.get() + series_6_var.get() + series_7_var.get() + series_8_var.get() + series_9_var.get() + series_10_var.get() + series_11_var.get() + series_12_var.get() + series_13_var.get() == 0:
+        episode_is_okay = True
+        episode = {
+            "series": 0,
+            "episode": 0,
+            "title": "Please Select a Series",
+            "doctor": 0,
+            "link": "https://www.bbc.co.uk/iplayer/episodes/b006q2x0" # link to the general dr who iplayer page
+
+        }
+
     match episode["series"]:
             case 1 :
                 if series_1_var.get() == 1:
@@ -1275,6 +1288,7 @@ def pick_episode_button():
     link_label.delete(0, "end")
     link_label.insert(0, episode["link"])
     bg_colours = {
+        0: "black",    # this colour is only used if no series is selected
         8: "#0f090a",  # colour taken from 8's coat 
         9: "#423120",  # colour taken from 9's tardis
         10: "#000b79", # colour taken from 10's screwdriver
