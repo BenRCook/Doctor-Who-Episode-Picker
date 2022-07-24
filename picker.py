@@ -1222,6 +1222,50 @@ episodes = json.loads(episodes_json)
 
 def pick_episode():
     episode = random.choice(episodes)
+    episode_is_okay = False
+    
+    match episode["series"]:
+            case 1 :
+                if series_1_var.get() == 1:
+                    episode_is_okay = True
+            case 2 :
+                if series_2_var.get() == 1:
+                    episode_is_okay = True
+            case 3 :
+                if series_3_var.get() == 1:
+                    episode_is_okay = True
+            case 4 :
+                if series_4_var.get() == 1:
+                    episode_is_okay = True
+            case 5 :
+                if series_5_var.get() == 1:
+                    episode_is_okay = True
+            case 6 :
+                if series_6_var.get() == 1:
+                    episode_is_okay = True
+            case 7 :
+                if series_7_var.get() == 1:
+                    episode_is_okay = True
+            case 8 :
+                if series_8_var.get() == 1:
+                    episode_is_okay = True
+            case 9 :
+                if series_9_var.get() == 1:
+                    episode_is_okay = True
+            case 10 :
+                if series_10_var.get() == 1:
+                    episode_is_okay = True
+            case 11 :
+                if series_11_var.get() == 1:
+                    episode_is_okay = True
+            case 12 :
+                if series_12_var.get() == 1:
+                    episode_is_okay = True
+            case 13 :
+                if series_13_var.get() == 1:
+                    episode_is_okay = True
+    if not episode_is_okay:
+        episode = pick_episode()
     return episode
 
 def pick_episode_button():
