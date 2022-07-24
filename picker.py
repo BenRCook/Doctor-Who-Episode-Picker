@@ -1281,7 +1281,7 @@ def pick_episode():
         episode = pick_episode()
     return episode
 
-def pick_episode_button():
+def pick_episode_button_function():
     episode = pick_episode()
     title_label["text"] = "S%s E%s - %s" %(episode["series"], episode["episode"], episode["title"])
     doctor_label["text"] = "%sth Doctor" % episode["doctor"]
@@ -1298,6 +1298,36 @@ def pick_episode_button():
     }
     root["bg"] = bg_colours[episode["doctor"]]
     
+def select_all_button_function(): 
+    series_1_var.set(1)
+    series_2_var.set(1)
+    series_3_var.set(1)
+    series_4_var.set(1)
+    series_5_var.set(1)
+    series_6_var.set(1)
+    series_7_var.set(1)
+    series_8_var.set(1)
+    series_9_var.set(1)
+    series_10_var.set(1)
+    series_11_var.set(1)
+    series_12_var.set(1)
+    series_13_var.set(1)
+
+def deselect_all_button_function(): 
+    series_1_var.set(0)
+    series_2_var.set(0)
+    series_3_var.set(0)
+    series_4_var.set(0)
+    series_5_var.set(0)
+    series_6_var.set(0)
+    series_7_var.set(0)
+    series_8_var.set(0)
+    series_9_var.set(0)
+    series_10_var.set(0)
+    series_11_var.set(0)
+    series_12_var.set(0)
+    series_13_var.set(0)
+
 root = Tk()
 root.title("Doctor Who Episode Generator")
 root.geometry("620x390")
@@ -1351,10 +1381,14 @@ series_13_var = IntVar()
 series_13_var.set(1)
 series_13_checkbutton = Checkbutton(series_frame, text="series 13", bg="#4d3438", fg="white", selectcolor="#4d3438", padx=1, variable = series_13_var).grid(row=2, column=3)
 
-pick_episode_button() # picks an episode  
+select_all_frame = LabelFrame(root, padx=5, pady=5)
+select_all_frame.pack()
+select_all_button = Button(select_all_frame, text="Select All", command=select_all_button_function, font=("Helvetica, 10")).grid(row=0, column=0)
+deselect_all_button = Button(select_all_frame, text="Deselect All", command=deselect_all_button_function, font=("Helvetica, 10")).grid(row=0, column=1)
+pick_episode_button_function() # picks an episode  
 
-new_episode_button = Button(text="Pick New Episode", command=pick_episode_button, font=("Helvetica", 15), padx = 10, pady = 20)
-new_episode_button.pack(pady=10)
+pick_episode_button = Button(text="Pick New Episode", command=pick_episode_button_function, font=("Helvetica", 15), padx = 10, pady = 20)
+pick_episode_button.pack(pady=10)
 
 
 root.mainloop()
