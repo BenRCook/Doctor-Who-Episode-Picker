@@ -1283,11 +1283,10 @@ def pick_episode_button():
         13: "#4d3438"  # colour taken from 13's screwdriver
     }
     root["bg"] = bg_colours[episode["doctor"]]
-    print([series_1_var.get(), series_2_var.get(), series_3_var.get(), series_4_var.get(), series_5_var.get(), series_6_var.get(), series_7_var.get(), series_8_var.get(), series_9_var.get(), series_10_var.get(), series_11_var.get(), series_12_var.get(), series_13_var.get()])
     
 root = Tk()
 root.title("Doctor Who Episode Generator")
-root.geometry("550x390")
+root.geometry("620x390")
 root.configure(bg="#17163e")
 title_label = Label(root, text="", font=("Helvetica", 20))
 title_label.pack(pady=10)
