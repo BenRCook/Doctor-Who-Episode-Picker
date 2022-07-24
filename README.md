@@ -17,3 +17,4 @@ This project was created because I often struggle to select what episode of Dr W
 - a basic GUI using tkinter
 - showing the doctor present in each episode and changes background accordingly *("Day of the Doctor" shows as 11)*
 - displaying a copyable bbc iplayer link to the episode selected
+- selecting episode by series
