@@ -115,7 +115,6 @@ def deselect_all_button_function():
 root = Tk()
 root.title("Doctor Who Episode Generator")
 root.geometry("620x390")
-root.configure(bg="#17163e")
 title_label = Label(root, text="", font=("Helvetica", 20))
 title_label.pack(pady=10)
 doctor_label = Label(root, text="", font=("Helvetica", 15))
