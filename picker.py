@@ -1214,6 +1214,13 @@ episodes_json = """[
         "title": "Legend of the Sea Devils",
         "doctor": 13,
         "link": "https://www.bbc.co.uk/iplayer/episode/m0016lkw"
+    },
+    {
+        "series": 13,
+        "episode": 9,
+        "title": "The Power of the Doctor",
+        "doctor": 13,
+        "link": "https://www.bbc.co.uk/iplayer/episode/m001dhsb/doctor-who-the-power-of-the-doctor"
     }
     
 ]
