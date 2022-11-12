@@ -17,6 +17,6 @@ This project was created because I often struggle to select what episode of Dr W
 ## I have currently implemented:
 - selecting a random episode from the 13 series of the revived show *(plus the "Night of the Doctor" minisode)*
 - a basic GUI using tkinter
-- showing the doctor present in each episode and changes background accordingly *("Day of the Doctor" shows as 11)*
+- showing the doctor present in each episode and changes background accordingly *("Day of the Doctor" shows as 11, "Twice Upon a Time" shows as 12)*
 - displaying a copyable bbc iplayer link to the episode selected
 - selecting episode by series
