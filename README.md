@@ -26,7 +26,7 @@ I will probably only be including the revived show (RTD and beyond) as I do not 
 
 ## Screenshots
 
-![alt text](./Screenshot1.jpg)
-![alt text](./Screenshot2.jpg)
-![alt text](./Screenshot3.jpg)
-![alt text](./Screenshot4.jpg)
+![alt text](./Screenshots/Screenshot1.jpg)
+![alt text](./Screenshots/Screenshot2.jpg)
+![alt text](./Screenshots/Screenshot3.jpg)
+![alt text](./Screenshots/Screenshot4.jpg)
