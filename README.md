@@ -26,7 +26,7 @@ I will probably only be including the revived show (RTD and beyond) as I do not 
 
 ## Screenshots
 
-![alt text](./Screenshots/Screenshot1.jpg)
-![alt text](./Screenshots/Screenshot2.jpg)
-![alt text](./Screenshots/Screenshot3.jpg)
-![alt text](./Screenshots/Screenshot4.jpg)
+![10th Ddoctor screenshot](./Screenshots/Screenshot1.jpg)
+![9th doctor screenshot](./Screenshots/Screenshot2.jpg)
+![12th doctor screenshot](./Screenshots/Screenshot3.jpg)
+![no series selected screenshot](./Screenshots/Screenshot4.jpg)
