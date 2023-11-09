@@ -23,3 +23,7 @@ I will probably only be including the revived show (RTD and beyond) as I do not 
 - showing the doctor present in each episode and changes background accordingly *("Day of the Doctor" shows as 11, "Twice Upon a Time" shows as 12)*
 - displaying a copyable bbc iplayer link to the episode selected
 - selecting episode by series
+
+## Screenshots
+
+![alt text](./Screenshot1.jpg)
