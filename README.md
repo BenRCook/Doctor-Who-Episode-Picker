@@ -1,4 +1,4 @@
-# Doctor-Who-Episode-Picker
+# python-drwho-episode-picker
 
 ## A program that Randomly selects episodes of Doctor Who
 
