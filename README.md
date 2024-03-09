@@ -2,9 +2,11 @@
 
 ## A program that Randomly selects episodes of Doctor Who
 
+### ⚠️ This repository is no longer being maintained, as it is being replaced by [a newer version](https://github.com/May-Cook/drwho-episode-picker/tree/main) that uses GitHub pages. ⚠️
+
 This project was created because I often struggle to select what episode of Dr Who to rewatch becauase I find there are two many choices, and I wanted to create a program to create random suggestions. I am creating this for my own benefit but you are welcome to use it if you find it helpful.
 
-I will probably only be including the revived show (RTD and beyond) as I do not have a way to easily watch the classic series
+This version only includes the 2005-2022 version of the show as the 1963-1996 version was not available on Iplayer when this program was created and I do not wish to continually update it into the future
 
 **Requires `Python 3.10` or later**
 
